@@ -122,5 +122,4 @@ plt.show()
 
 ---
 
-✍️ *This project is part of a Data Science learning roadmap (Phase 2: Python + Visualization).*
 
